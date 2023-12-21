@@ -1,0 +1,2 @@
+!function(){"use strict";var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https:":"http:")+"//www.google.com/cse/cse.js?cx=004234720413995998423:k3ec-imxsac";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();
+//# sourceMappingURL=./search-min.js.map

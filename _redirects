@@ -1,0 +1,17 @@
+# redirect from Netlify to custom domain
+
+http://gr-com.netlify.app/* https://www.greg-raven.com/:splat 301!
+https://gr-com.netlify.app/* https://www.greg-raven.com/:splat 301!
+
+# redirect site icons
+
+/android-chrome-192x192.png /assets/siteicons/android-chrome-192x192.png 301
+/android-chrome-512x512.png /assets/siteicons/android-chrome-512x512.png 301
+/apple-touch-icon.png /assets/siteicons/apple-touch-icon.png 301
+/browserconfig.xml /assets/siteicons/browserconfig.xml 301
+/favicon-16x16.png /assets/siteicons/favicon-16x16.png 301
+/favicon-32x32.png /assets/siteicons/favicon-32x32.png 301
+/favicon.ico /assets/siteicons/favicon.ico 301
+/mstile-150x150.png /assets/siteicons/mstile-150x150.png 301
+/safari-pinned-tab.svg /assets/siteicons/safari-pinned-tab.svg 301
+/site.webmanifest /assets/siteicons/site.webmanifest 301
